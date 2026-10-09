@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f1fa; color: #222; }
+header { background: #5f3dc4; color: white; text-align: center; padding: 20px; }
+nav { background: #3b2a82; text-align: center; padding: 10px; }
+nav a { color: white; margin: 0 12px; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; color: #ffd43b; }
+main { max-width: 800px; margin: 25px auto; background: white; padding: 25px; border-radius: 10px; }
+img { max-width: 100%; border-radius: 8px; }
+.poster { display: block; margin: 15px auto; width: 250px; }
+.tarjetas { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; }
+.tarjeta { text-align: center; width: 200px; }
+footer { text-align: center; padding: 15px; color: #555; }
